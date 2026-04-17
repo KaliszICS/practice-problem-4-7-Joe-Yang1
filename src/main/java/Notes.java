@@ -2,7 +2,7 @@
 	* Lesson: Random Module
 	* Author: Mr. Kalisz
 	* Date Created: April 17, 2023
-	* Date Last Modified: April 17, 2023
+	* Date Last Modified: April 17, 2026
 	*/
 
 import java.util.Random; //Import Random in order to use it
